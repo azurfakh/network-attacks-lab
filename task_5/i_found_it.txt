@@ -1,0 +1,2 @@
+FOFA query used: app="nginx" && server="nginx/1.13.2"
+Example IP: <redacted — see README>
